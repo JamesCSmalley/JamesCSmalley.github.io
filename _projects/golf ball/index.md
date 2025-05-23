@@ -5,5 +5,5 @@ description:  At some point I realized that most golfballs only have a logo prin
 skills: 
 - Autodesk Fusion 360
 - FDM Rapid Prototyping
-main-image: /golfball.png 
+main-image: /golfball.PNG 
 ---
