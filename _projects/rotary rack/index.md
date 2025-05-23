@@ -5,5 +5,5 @@ description:  Worked with my father to develope a method to convert flatbed UV p
 skills: 
 - Autodesk Fusion 360
 - FDM Rapid Prototyping
-main-image: /project.webp 
+main-image: /rotary_rack_for_roland_dg_versauv_lef_series_flatbed_printers.png 
 ---
